@@ -19,3 +19,4 @@ if($notaEstudiante >= 0 && $notaEstudiante <=100){
 }else {
     echo "El valor introducino no es valido. ";
 }
+?>
